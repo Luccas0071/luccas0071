@@ -1,4 +1,4 @@
-## Olá eu sou a Lucas Oliveira, Software Developer
+## Olá eu sou a Lucas Oliveira, Web Developer
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luccas0071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas0071&layout=compact&langs_count=7&theme=dark"/>
