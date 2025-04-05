@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou desenvolvedor com 5 anos de experiência, formado em Sistemas de Informação e Engenharia de Software. Atuo com foco em back-end, com forte conhecimento em Node.js e arquitetura de microserviços. Tenho experiência em trabalhar com sistemas de grande porte, escaláveis e de alta disponibilidade, utilizando diversos serviços da AWS. Busco sempre aplicar boas práticas de desenvolvimento, testes automatizados, integração contínua e entrega contínua em ambientes produtivos.
+Sou engenheiro de software desde 2019, formado em Sistemas de Informação e Engenharia de Software, e atualmente moro em Curitiba. Tenho experiência como desenvolvedor full stack, mas hoje atuo com foco em back-end. Trabalho no desenvolvimento de sistemas de grande porte, escaláveis e de alta disponibilidade, com ênfase em arquitetura de microserviços. Utilizo JavaScript (com Node.js) como principal stack no back-end e diversos serviços da AWS no dia a dia, aplicando boas práticas de desenvolvimento, testes automatizados, integração contínua e entrega contínua.
 
 #### 🗨️ Contate-me:
 <div>
