@@ -1,8 +1,9 @@
 # 👨‍💻 Lucas Oliveira
 
-**`Desenvolvedor Back-end`**
+**`Engenheiro de Software`**
 
-Sou engenheiro de software desde 2019, formado em Sistemas de Informação e Engenharia de Software, e atualmente moro em Curitiba. Tenho experiência como desenvolvedor full stack, mas hoje atuo com foco em back-end. Trabalho no desenvolvimento de sistemas de grande porte, escaláveis e de alta disponibilidade, com ênfase em arquitetura de microserviços. Utilizo JavaScript (com Node.js) como principal stack no back-end e diversos serviços da AWS no dia a dia, aplicando boas práticas de desenvolvimento, testes automatizados, integração contínua e entrega contínua.
+Atuo atualmente como engenheiro de software com foco em back-end, com sólida experiência em desenvolvimento desde 2019. Sou formado em Sistemas de Informação e Engenharia de Software, e moro em Curitiba. Ao longo da minha carreira, trabalhei como desenvolvedor full stack, mas nos últimos anos tenho me especializado em back-end, contribuindo para sistemas de grande porte, escaláveis e de alta disponibilidade, seguindo a arquitetura de microserviços.
+No dia a dia, utilizo principalmente TypeScript com Node.js e diversos serviços da AWS, sempre aplicando boas práticas de desenvolvimento, testes automatizados, integração e entrega contínua.
 
 #### 🗨️ Contate-me:
 <div>
