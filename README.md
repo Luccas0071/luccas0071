@@ -59,14 +59,6 @@ No dia a dia, utilizo principalmente TypeScript com Node.js e diversos serviços
     />
     <img 
         align="left" 
-        alt="Next.js" 
-        title="Next.js"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-    />
-    <img 
-        align="left" 
         alt="Bootstrap"
         title="Bootstrap" 
         width="30px" 
@@ -147,8 +139,8 @@ No dia a dia, utilizo principalmente TypeScript com Node.js e diversos serviços
     />
     <img 
         align="left" 
-        alt="Aws" 
-        title="Aws"
+        alt="Docker" 
+        title="Docker"
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
